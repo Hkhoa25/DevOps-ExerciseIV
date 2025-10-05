@@ -7,6 +7,7 @@ selenium-env\Scripts\activate      # Windows PowerShell
 
 # Install dependencies
 pip install --upgrade pip
+
 pip install selenium webdriver-manager pytest
 
 # Run the test
